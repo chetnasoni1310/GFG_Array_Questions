@@ -1,4 +1,4 @@
-public class _Equilibrium_Point_In_Array {
+public class _Equilibrium_Point_In_Array_Prefix_Sum {
     public static int findEquilibrium(int arr[]) {
         // code here
         int n=arr.length;

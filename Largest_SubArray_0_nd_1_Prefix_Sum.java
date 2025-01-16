@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Leargest_SubArray_0_nd_1 {
+public class Largest_SubArray_0_nd_1_Prefix_Sum  {
      public int maxLen(int[] arr) {
         // Your code here
         int n=arr.length;
